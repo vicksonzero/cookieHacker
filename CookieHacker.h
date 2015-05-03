@@ -1,7 +1,14 @@
 "README:
-Created by Dickson @vicksonzero
+Created by Dickson Chui @vicksonzero
 
-since I don't have comments here, 
+License:
+  You are basically free to do anything 
+  including commercial use, 
+  but you have to give credit to me 
+  (Dickson Chui, @vicksonzero) 
+  somewhere easy to see
+
+since I am not allowed to use comments, 
 I am going to use this loose 
 hanging string to comment my code";
 
