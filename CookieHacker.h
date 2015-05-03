@@ -87,13 +87,13 @@ if var_a == 0 {
 	"5 = icon of shop";
 	"see function2 for shop insance format";
 	var_a = [];
-	var_a.push(["Finger",	15,			1,		false,[],"icon"]);
-	var_a.push(["Grandma",	100,		2,		false,[],"icon"]);
-	var_a.push(["Farm",		500,		20,		false,[],"icon"]);
-	var_a.push(["Factory",	5000,		150,	false,[],"icon"]);
-	var_a.push(["Shipment",	100 000,	4000,	false,[],"icon"]);
-	var_a.push(["Portal",	500 000,	9999,	false,[],"icon"]);
-	var_a.push(["Hackpad",	999 999,	55555,	false,[],"icon"]);
+	var_a.push(["Finger",   15,       1,     false,[],"icon"]);
+	var_a.push(["Grandma",  100,      2,     false,[],"icon"]);
+	var_a.push(["Farm",     500,      20,    false,[],"icon"]);
+	var_a.push(["Factory",  5000,     150,   false,[],"icon"]);
+	var_a.push(["Shipment", 100 000,  4000,  false,[],"icon"]);
+	var_a.push(["Portal",   500 000,  9999,  false,[],"icon"]);
+	var_a.push(["Hackpad",  999 999,  55555, false,[],"icon"]);
 
 	"E = count unlocked shop";
 	var_e=0;
