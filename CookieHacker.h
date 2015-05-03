@@ -383,7 +383,7 @@ if var_b[6] == 1 && !var_c[2][var_c[3]]() {
 		var_b[6] = 100;
 	}
 }
-"if press other buttons that konami";
+"if press other buttons than konami";
 if up() || down() || left() || right() || a_btn() || b_btn() {
 	if var_b[6] == 0 && !var_c[2][var_c[3]]() {
 		"reset konami";
