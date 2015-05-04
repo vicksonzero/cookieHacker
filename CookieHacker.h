@@ -1,7 +1,14 @@
 "README:
-Created by Dickson @vicksonzero
+Created by Dickson Chui @vicksonzero
 
-since I don't have comments here, 
+License:
+  You are basically free to do anything 
+  including commercial use, 
+  but you have to give credit to me 
+  (Dickson Chui, @vicksonzero) 
+  somewhere easy to see
+
+since I am not allowed to use comments, 
 I am going to use this loose 
 hanging string to comment my code";
 
@@ -92,13 +99,13 @@ if var_a == 0 {
 	"5 = icon of shop";
 	"see function2 for shop insance format";
 	var_a = [];
-	var_a.push(["Finger",	15,			1,		false,[],"icon"]);
-	var_a.push(["Grandma",	100,		2,		false,[],"icon"]);
-	var_a.push(["Farm",		500,		20,		false,[],"icon"]);
-	var_a.push(["Factory",	5000,		150,	false,[],"icon"]);
-	var_a.push(["Shipment",	100 000,	4000,	false,[],"icon"]);
-	var_a.push(["Portal",	500 000,	9999,	false,[],"icon"]);
-	var_a.push(["Hackpad",	999 999,	55555,	false,[],"icon"]);
+	var_a.push(["Finger",   15,       1,     false,[],"icon"]);
+	var_a.push(["Grandma",  100,      2,     false,[],"icon"]);
+	var_a.push(["Farm",     500,      20,    false,[],"icon"]);
+	var_a.push(["Factory",  5000,     150,   false,[],"icon"]);
+	var_a.push(["Shipment", 100 000,  4000,  false,[],"icon"]);
+	var_a.push(["Portal",   500 000,  9999,  false,[],"icon"]);
+	var_a.push(["Hackpad",  999 999,  55555, false,[],"icon"]);
 
 	"E = count unlocked shop";
 	var_e=0;
@@ -395,7 +402,7 @@ if var_b[6] == 1 && !var_c[2][var_c[3]]() {
 		var_b[6] = 100;
 	}
 }
-"if press other buttons that konami";
+"if press other buttons than konami";
 if up() || down() || left() || right() || a_btn() || b_btn() {
 	if var_b[6] == 0 && !var_c[2][var_c[3]]() {
 		"reset konami";
