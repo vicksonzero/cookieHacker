@@ -8,6 +8,17 @@ hanging string to comment my code";
 
 "Cookie Hacker";
 
+"
+
+Consider going to:
+github.io/vicksonzero/cookieHacker
+for the full code
+
+
+
+
+
+"
 
 "==============================";
 "Game init - only run once";
@@ -33,7 +44,8 @@ if var_a == 0 {
 	"3 = konami progress";
 	"4 = game progress descriptions";
 	"5 = end game flag";
-	var_c = [0,0,0,0,0,0];
+	"6 = count unlocked shops"
+	var_c = [0,0,0,0,0,0,0];
 	var_c[2] = [];
 	var_c[2].push(function -> up());
 	var_c[2].push(function -> up());
@@ -49,22 +61,22 @@ if var_a == 0 {
 	var_c[3] = 0;
 
 	var_c[4] = [];
-	var_c[4].push([0,""]);
-	var_c[4].push([30,"You are getting into business"]);
-	var_c[4].push([85,"You opened a small shop in town"]);
-	var_c[4].push([150,"Kids like your cookies"]);
-	var_c[4].push([300,"People queue up for your cookies"]);
-	var_c[4].push([600,"You work hard to improve youe recipe"]);
-	var_c[4].push([1000,""]);
-	var_c[4].push([1000,""]);
-	var_c[4].push([1000,""]);
-	var_c[4].push([200 000,"You appear on the cover of Timed magazine"]);
-	var_c[4].push([400 000,"You visit jungle temples for cookie recipes"]);
-	var_c[4].push([1000 * 1000,"You are a million-cooki-aire"]);
-	var_c[4].push([2 * 1000 * 1000,"You are president of several worlds"]);
-	var_c[4].push([5 * 1000 * 1000,"You had a recurring nightmare..."]);
-	var_c[4].push([6 * 1000 * 1000,"A nightmare about 1000 fingers..."]);
-	var_c[4].push([10 * 1000 * 1000,"1000 fingers on the same hand"]);
+	var_c[4].push([0,                ""]);
+	var_c[4].push([30,               "You are getting into business"]);
+	var_c[4].push([85,               "You opened a small shop in town"]);
+	var_c[4].push([150,              "Kids like your cookies"]);
+	var_c[4].push([300,              "People queue up for your cookies"]);
+	var_c[4].push([600,              "You work hard to improve youe recipe"]);
+	var_c[4].push([1000,             ""]);
+	var_c[4].push([1000,             ""]);
+	var_c[4].push([1000,             ""]);
+	var_c[4].push([200 000,          "You appear on the cover of Timed magazine"]);
+	var_c[4].push([400 000,          "You visit jungle temples for cookie recipes"]);
+	var_c[4].push([1000 * 1000,      "You are a million-cooki-aire"]);
+	var_c[4].push([2 * 1000 * 1000,  "You are president of several worlds"]);
+	var_c[4].push([5 * 1000 * 1000,  "You had a recurring nightmare..."]);
+	var_c[4].push([6 * 1000 * 1000,  "A nightmare about 1000 fingers..."]);
+	var_c[4].push([10 * 1000 * 1000, "1000 fingers on the same hand"]);
 
 	var_c[5] = 0;
 
