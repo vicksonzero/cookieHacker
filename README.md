@@ -12,4 +12,16 @@ cookie clicker for the mobile coding game Hacked
 
 # License
 
-You are basically free to do anything including commercial use, but you have to give credit to me (Dickson Chui, @vicksonzero) somewhere easy to see
+This piece of code is released  
+  to the public domain. You can do  
+  whatever you like with it.  
+  However,  
+  If you are to directly modify my game,  
+  with most of the rules and implementations  
+  untouched, I appreciate that you save me   
+  some credits.  
+
+You can give credit to one of the following:
+ - Dickson Chui
+ - vicksonzero
+ - github.com/vicksonzero
