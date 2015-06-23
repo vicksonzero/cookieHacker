@@ -80,7 +80,7 @@ if var_a == 0 {
 	var_c[4].push([600,              "You work hard to improve your cookies"]);
 	var_c[4].push([1000,             "You and your cookies appear on TV"]);
 	var_c[4].push([2000,             "You travel worldwide for cookie recipes"]);
-	var_c[4].push([4000,             "The mayor likes yuor cookies"]);
+	var_c[4].push([4000,             "The mayor likes your cookies"]);
 	var_c[4].push([8000,             "You start to surpass your rivals"]);
 	var_c[4].push([12000,            "Your brand is well known in the country"]);
 	var_c[4].push([40000,            "Your cookies become tourist attractions"]);
