@@ -20,7 +20,7 @@ hanging string to comment my code";
 "
 
 Consider going to:
-github.io/vicksonzero/cookieHacker
+github.com/vicksonzero/cookieHacker
 for the full code
 
 
@@ -113,7 +113,7 @@ if var_a == 0 {
 	"3 = state: unlocked?";
 	"4 = list of shop instances";
 	"5 = icon of shop";
-	"see function2 for shop insance format";
+	"see function2 for shop instance format";
 	var_a = [];
 	var_a.push(["Finger",   15,       1,     false, [], "icon"]);
 	var_a.push(["Grandma",  100,      2,     false, [], "icon"]);
