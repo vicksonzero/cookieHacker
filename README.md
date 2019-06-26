@@ -27,3 +27,6 @@ You can give credit to one of the following:
  - Dickson Chui
  - vicksonzero
  - github.com/vicksonzero
+
+
+![screenshot](https://github.com/vicksonzero/cookieHacker/blob/master/screenshots/Screenshot_20190626-140310.png "screenshot")
